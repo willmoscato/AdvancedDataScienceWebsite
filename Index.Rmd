@@ -1,7 +1,6 @@
 ---
 title: |
-  Will Moscato: 
-  Advanced Data Science
+  Projects
 description: |
  Welcome to the website. This is where I am going to put my data science projects.
 site: distill::distill_website
