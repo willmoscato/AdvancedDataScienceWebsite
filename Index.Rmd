@@ -2,7 +2,7 @@
 title: |
   Projects
 description: |
- Welcome to the website. This is where I am going to put my data science projects.
+ 
 site: distill::distill_website
 ---
 
@@ -10,3 +10,4 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+**Welcome to the website. This is where I am going to put my data science projects.**
