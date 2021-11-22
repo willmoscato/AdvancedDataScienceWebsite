@@ -10,4 +10,7 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**Welcome to the website. This is where I am going to put my data science projects.**
+# Welcome to my website
+
+## Predicting FIFA Team of the Season Players project
+### This project used machine learning models to predict who would be in the "Team of the Season" for each league in the video game FIFA based upon real world statistics. [Project Website](https://totspredictor.netlify.app/)
