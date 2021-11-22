@@ -11,5 +11,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-#Predicting FIFA Team of the Season Players project
+# Predicting FIFA Team of the Season Players project
 ### This project used machine learning models to predict who would be in the "Team of the Season" for each league in the video game FIFA based upon real world statistics. [Project Website](https://totspredictor.netlify.app/)
