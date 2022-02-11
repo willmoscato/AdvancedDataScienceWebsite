@@ -1,18 +1,20 @@
 ---
 title: |
-  Projects
-description: |
- 
+  Will Moscato
+description: 
 site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+# Bio
+My name is Will Moscato and I am a 2022 Macalester graduate with a degree in Applied Math and Statistics.
 
 
-# Predicting FIFA Team of the Season Players project
+# Projects
+## Predicting FIFA Team of the Season Players project
 ### This project used machine learning models to predict who would be in the "Team of the Season" for each league in the video game FIFA based upon real world statistics. [TOTS Predictor Website](https://totspredictor.netlify.app/).
 
-# Pitch Predictor
+## Pitch Predictor
 ### This project predicts what pitch was thrown in an MLB game based upon spin, velocity, and movement metrics. [Pitch Type Predictor Website](https://pitchpredictormachinelearning.netlify.app/)
