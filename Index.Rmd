@@ -18,3 +18,6 @@ My name is Will Moscato and I am a 2022 Macalester graduate with a degree in App
 
 ## Pitch Predictor
 ### This project predicts what pitch was thrown in an MLB game based upon spin, velocity, and movement metrics. [Pitch Type Predictor Website](https://pitchpredictormachinelearning.netlify.app/)
+
+## ERA Predictor
+### This project takes swing data as well as some location data and attempts to predict a pitchers ERA. While this obviously does not work perfectly, it is very interesting to see which variables affect the ERA prediction the most. You can try it yourself on my [Shiny Website](https://wmoscato.shinyapps.io/ERAprediction/)
