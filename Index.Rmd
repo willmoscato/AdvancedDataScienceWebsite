@@ -23,3 +23,7 @@ My name is Will Moscato and I am a 2022 Macalester graduate with a degree in App
 
 ## ERA Predictor
 ### This project takes swing data as well as some location data and attempts to predict a pitchers ERA. While this obviously does not work perfectly, it is very interesting to see which variables affect the ERA prediction the most. You can try it yourself on my [Shiny Website](https://wmoscato.shinyapps.io/ERAprediction/).
+
+
+## Whiff Probability Maximization
+### This project takes the pitch data from one pitcher in 2021 with a whiff probability variable for each pitch. I then gave strategies to this pitcher in order to help optimize his whiff probability in the future for each pitch. This project is solely about whiff and does not take into account taken strikes or quality of contact, it also looks at each pitch as independent so does not factor in pitch sequencing. [Whiff Probability Maximization Website](https://whiffprobabilitymaximization.netlify.app/)
