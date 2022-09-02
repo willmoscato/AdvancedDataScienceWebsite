@@ -12,18 +12,12 @@ knitr::opts_chunk$set(echo = TRUE)
 My name is Will Moscato and I am a 2022 Macalester graduate with a degree in Applied Math and Statistics.
 [Linkedin](https://www.linkedin.com/in/william-moscato-716708180/)
 [Github](https://github.com/willmoscato?tab=repositories)
+[Resume](https://docs.google.com/document/d/17tK0QK8pQ0sjOssxlcmZKS3dywJYZnXcw1z1cpmDp6o/edit?usp=sharing)
 
 
-# Projects
-## Predicting FIFA Team of the Season Players project
-### This project used machine learning models to predict who would be in the "Team of the Season" for each league in the video game FIFA based upon real world statistics. [TOTS Predictor Website](https://totspredictor.netlify.app/).
-
-## Pitch Predictor
-### This project predicts what pitch was thrown in an MLB game based upon spin, velocity, and movement metrics. [Pitch Type Predictor Website](https://pitchpredictormachinelearning.netlify.app/).
-
-## ERA Predictor
-### This project takes swing data as well as some location data and attempts to predict a pitchers ERA. While this obviously does not work perfectly, it is very interesting to see which variables affect the ERA prediction the most. You can try it yourself on my [Shiny Website](https://wmoscato.shinyapps.io/ERAprediction/).
+Check out my projects on the "Projects List" page in the top right corner!
 
 
-## Whiff Probability Maximization
-### This project takes the pitch data from one pitcher in 2021 with a whiff probability variable for each pitch. I then gave strategies to this pitcher in order to help optimize his whiff probability in the future for each pitch. This project is solely about whiff and does not take into account taken strikes or quality of contact, it also looks at each pitch as independent so does not factor in pitch sequencing. [Whiff Probability Maximization Website](https://whiffprobabilitymaximization.netlify.app/)
+![](Moscato_Will.jpg)
+
+

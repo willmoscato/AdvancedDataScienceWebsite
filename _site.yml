@@ -6,7 +6,9 @@ description: |
 output_dir: "_site"
 navbar:
   right:
-    - text: "Home"
+    - text: "About"
       href: index.html
+    - text: "Project List"
+      href: Projects.html
 output: distill::distill_article
 ---
